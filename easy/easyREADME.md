@@ -1,1 +1,1 @@
-## Easy LeetCodes
+## Easy Leetcodes Problems
